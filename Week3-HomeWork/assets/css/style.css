@@ -95,7 +95,7 @@ header {
 }
 
 header h2 {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 header nav {
@@ -200,7 +200,6 @@ header nav li {
 
 .testimonials .quote {
   color: darkslategrey;
-
   font-size: 22px;
   font-weight: 300;
   line-height: 1.5;
